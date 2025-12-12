@@ -5,5 +5,4 @@ tensorflow
 librosa
 sounddevice
 scikit-learn
-matplotlib
 deepface
