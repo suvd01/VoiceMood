@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pyqt5
+tensorflow
+librosa
+sounddevice
+scikit-learn
+matplotlib
+deepface
